@@ -1,5 +1,7 @@
 # Predicting NFL Game Results with Elo Ratings
 
+**Note:** The contents of this repository were imported from a separate repository that was used by all project team members. This project was the final project for STA 210 (Regression Analysis), which I took during the Fall 2022 semester at Duke.
+
 ## Project Summary
 FiveThirtyEight has created Elo ratings as a way to measure the strengths of home and away teams based on previous games. We are interested in using these Elo ratings in predicting the results of a game. Through our analysis, we used logistic regression to predict the odds of the home team winning using the differences in Elo ratings between home and away teams, to see if the home team has a significant advantage.
 
